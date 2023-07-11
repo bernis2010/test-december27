@@ -10,18 +10,18 @@ pipeline {
         }
             stage('build') {
             steps {
-                echo 'Hbuilding      jjjjjjj'
+                echo '202222 etoooooo '
             }
             }
             stage('deploy') {
             steps {
-                echo 'deploy   iiiiiiiiii'
+                echo 'd202222 etoooooo '
             }
             }
            
         stage('TEST') {
             steps {
-                echo 'Test iiiiiiiiii'
+                echo '202222 etoooooo '
             }
     }
 
